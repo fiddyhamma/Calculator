@@ -18,3 +18,10 @@ function Back() {
     var ev = document.getElementById('result');
     ev.value = ev.value.slice(0,-1);
 }
+
+
+
+
+
+
+//just testing something//
